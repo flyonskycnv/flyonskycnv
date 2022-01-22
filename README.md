@@ -1,4 +1,6 @@
-### Hi there 👋
+## Anger begins with folly and ends with regret.
+
+ 👋
 
 <!--
 **flyonskycnv/flyonskycnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
